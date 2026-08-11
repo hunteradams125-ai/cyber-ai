@@ -1,0 +1,9 @@
+Starting Nmap 7.95 ( https://nmap.org )
+Nmap scan report for lab.local (192.0.2.10)
+Host is up (0.012s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 9.6
+80/tcp   open  http    Apache httpd 2.4
+8080/tcp open  http-proxy Sample lab service
+Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds

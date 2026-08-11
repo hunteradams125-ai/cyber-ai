@@ -1,0 +1,4 @@
+[
+  {"local": "127.0.0.1:8080", "remote": "0.0.0.0:0", "state": "LISTEN"},
+  {"local": "192.0.2.10:44500", "remote": "198.51.100.20:443", "state": "ESTABLISHED"}
+]

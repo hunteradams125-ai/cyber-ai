@@ -1,0 +1,1 @@
+"""Collectors and platform adapters."""
